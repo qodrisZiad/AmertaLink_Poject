@@ -3,12 +3,84 @@
 
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8724afd56e89e8162ff8bcbf38be47f864d04924\classes.dex" />
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.4.0_4ac8e9dfbe570548d748e343396d46d4e0fb1b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.0.0_19167efd9f999a9b8cb3da8032f40da48145222a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b35b872c66599aafaacf5c2b1d828f353ecdb3f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.0.0_85123e2c09f56a4611972540c84bfc3e78c99b61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSA04\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_94b01b76f65e6b627b68a1571ca2f18e0cfb46e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSA04\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-5\508b8b59843653756aeed058a3a421afa0657bcb\kotlin-stdlib-1.1.2-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="508b8b59843653756aeed058a3a421afa0657bcb">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.2-5_c9f759a1246705b59734745764a89952752a5ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_7f0291aa547b749d25a4e58abef46ff2b2762125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_79a7f47df70f6277c4b8e03b5ac04c8008b0864a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.0.0_aa1e9c52330fd42ae92b7c17cacfe17cc13ca4e2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -16,98 +88,161 @@
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="3f2871c1ee8153aaa154568dfb896a9b16561c8b">
+        sha1="5bbdf1446ae1bb2497a3f5b9ec8a1ace2ba9bfb2">
         <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1871e515499bb0510b1e4539ff1d6a76e227916c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e94840787b781f76ee55c54d53aedc17141803ef\classes.dex" />
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.0.0_53cb5b805d50b03e609a006d3d530ff19d83bd17\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e9ca63c671b987c53f4a8f36c14b665dd070ec37\classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_b5dee8994e15e1a20b230dc634acbd9b8107594e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_12cab2ff1e35a3c8ae6f06becc9faa8a05d2ba99\classes.dex" />
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_7a5cceebfab17ab27a45f10f16bb7b4af44a3c80\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b9f1a40c53497d1056df3809b3e57735bd131e5e\classes.dex" />
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.0.0_68eed2b5d526127778ebae8aced9b72dfd68569d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\CSA04\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3db57c701adc9261454abe569d818bbd557e9508\classes.dex" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_5f40899e5514fa19f12dfb2fd014cd3a595a01c1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\CSA04\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_42f6ae026c7b342e0bcbe26a7b02b39b08a15d10\classes.dex" />
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_d01f7179f6f663963b24f414c5e7cdc260424c06\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_df44a664c180437ccecac27b84c4b83d3be8fe83\classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_80c0ca9c730eb2b514e053f2364b1d90cbb2c2a5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8b3969be7218ca33e5c7c8c129f3847ecf96e19b\classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_b7662f7a76bfc075f620be7490d32a5255fc8a15\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="C:\Users\CSA04\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-5\6617f5ad8c76e5141fff9da5b8975081cad24ccf\kotlin-stdlib-jre7-1.1.2-5.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_68528120926e955b27134c75be7ad1cd5b95b9b6\classes.dex" />
+        sha1="6617f5ad8c76e5141fff9da5b8975081cad24ccf">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.2-5_4c74b3c2b573e82a30e4a4cc1fabb797aaca39fa\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_04f458d8d3463afe3d659179d2f493ec007a5b38\classes.dex" />
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.0.0_a31da8008e0d965931f380eb4417c10c2df07b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6bee2c85591a8a362166c84046bd509550f14cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.0.0_b7e31a583d051ae452d65a190749c0df5d8e688f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.0.0_b0e5906bbd4e141afa811c135cbcce85bd6b5c5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.github.scottyab\showhidepasswordedittext\0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d9255f067a6b7d921bc73929fcb877eaac5bcf95">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.scottyab-showhidepasswordedittext-0.8_6f27d2dabceab9e10796e6826bc0fa09ec866471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.0.0_90e74b443e42317c821b60cd3ca9811a57b4fde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSA04\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_2911f675a02ebe27b43129cd303ec3357ad7867e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.0.0_7804207c866449acd627b12900535b542a58e338\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -115,62 +250,125 @@
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="32f5f4e7aefb4d58bf8b52eac793b0808fa00236">
+        sha1="8b1c4c7ad38310546c0e10e063e9b3791dee4db8">
         <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c540b4c433bcd5828a044d7874145eac97474dd2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_1f98bbc9f7e1d2c51bf15e1c25363f333836a707\classes.dex" />
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.0.0_8f34ebb41b5052f4b0b459fbe6cfa0d581a27090\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jar="C:\Users\CSA04\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_15e42da6e1edc5f67c8955e89cb8ab6d94b7be22\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_48e9307a43bf6a4c2cf7d92c1a14290e9d0a0d6c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_462d6a34b453ac0c37a1f69f3942f4d0260667d2\classes.dex" />
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.0.0_efd904c6e63e9e3801d80c9b018424abcbfb3d2e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a659a0c1a822e0cbf90f14b6d9a5a07ae59b7c4b\classes.dex" />
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.0.0_df5898cefbcb46f508f4f2bb2c93accd6b1ffc91\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_328ec981ad553234b9049b0d2e12c1a024952966\classes.dex" />
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_474237eac707854d8d4f643a25102673299cab40\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9a2c63a9b14a813accabaeb7992433aeacf29d53\classes.dex" />
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.0.0_0b1b68665967a59dc9c17ad341cabeeeaa105af6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.0.0_9ceb09db4f7c1ed04a0274122d223c7ef08399c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.0.0_2e0154c2f9ed23f54e99f01ae1a4ef006fc28539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.0.0_90e35f4a789fe10ea11d554877cbbe6a96c50316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.0.0_9e28cfcb8491e498b69c9f6c559581b08b4e6b2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.0.0_408747172386620a49ee7cb37afa521d1bde39d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSA04\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3\5b0002c5fb66867ca919be0fbd86de1cfaf76da7\httpmime-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpmime-4.3_c37fad1c4e2b9fca003956da2864d193743764b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\PROJECT KANTOR\android project\AmertaLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9e2c4fed4244f5bb976ac0b2ae80854fded83008\classes.dex" />
     </item>
 
 </items>
