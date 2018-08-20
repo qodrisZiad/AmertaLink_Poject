@@ -1,2 +1,3 @@
 # AmertaLink_Project
-PROYEK Amertalink Dynamic Shop | GARUDA CREATECH TEAM
+Proyek Amertalink Dynamic Shop 
+--- GARUDA CREATECH TEAM ---
